@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2540-minimum-common-value) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2540-minimum-common-value) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
