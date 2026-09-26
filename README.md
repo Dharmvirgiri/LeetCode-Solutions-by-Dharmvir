@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0290-word-pattern) |
 | [1078-occurrences-after-bigram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1078-occurrences-after-bigram) |
 ## String Matching
 |  |
