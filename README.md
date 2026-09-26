@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2169-count-operations-to-obtain-zero) |
 ## Array
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1672-richest-customer-wealth) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
