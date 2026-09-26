@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
