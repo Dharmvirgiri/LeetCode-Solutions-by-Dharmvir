@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1929-concatenation-of-array) |
+| [2540-minimum-common-value](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2540-minimum-common-value](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0027-remove-element) |
+| [2540-minimum-common-value](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
