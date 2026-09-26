@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0029-divide-two-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -22,7 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0001-two-sum) |
-| [0014-longest-common-prefix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0033-search-in-rotated-sorted-array) |
@@ -98,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0021-merge-two-sorted-lists) |
 ## Pigeonhole Principle
 |  |
@@ -117,7 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
@@ -138,8 +139,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
