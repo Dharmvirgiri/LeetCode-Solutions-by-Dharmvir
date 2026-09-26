@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
+| [1078-occurrences-after-bigram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1078-occurrences-after-bigram) |
 ## String Matching
 |  |
 | ------- |
