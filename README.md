@@ -298,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
