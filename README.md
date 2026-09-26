@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0713-subarray-product-less-than-k) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0374-guess-number-higher-or-lower) |
 ## Bracket Sequences
 |  |
