@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2485-find-the-pivot-integer) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bucket Sort
 |  |
 | ------- |
