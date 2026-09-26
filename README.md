@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting Sort
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2486-append-characters-to-string-to-make-subsequence) |
