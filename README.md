@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0217-contains-duplicate) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0164-maximum-gap) |
 | [0523-continuous-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0523-continuous-subarray-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
@@ -337,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0836-rectangle-overlap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
