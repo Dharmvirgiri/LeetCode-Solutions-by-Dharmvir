@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
