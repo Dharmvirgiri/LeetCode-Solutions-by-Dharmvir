@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0392-is-subsequence) |
 | [1078-occurrences-after-bigram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1078-occurrences-after-bigram) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3110-score-of-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
