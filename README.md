@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2169-count-operations-to-obtain-zero) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
