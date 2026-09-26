@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0066-plus-one) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1837-sum-of-digits-in-base-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0050-powx-n) |
 ## Pigeonhole Principle
 |  |
 | ------- |
