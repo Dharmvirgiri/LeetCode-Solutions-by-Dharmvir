@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0070-climbing-stairs) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1837-sum-of-digits-in-base-k) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2169-count-operations-to-obtain-zero) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0392-is-subsequence) |
