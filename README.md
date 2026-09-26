@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3110-score-of-a-string) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -281,9 +282,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0713-subarray-product-less-than-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4044-count-good-cyclic-rotations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4044-count-good-cyclic-rotations) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 <!---LeetCode Topics End-->
