@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3904-smallest-stable-index-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4044-count-good-cyclic-rotations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3904-smallest-stable-index-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4044-count-good-cyclic-rotations) |
 ## Matrix
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0713-subarray-product-less-than-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [4044-count-good-cyclic-rotations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4044-count-good-cyclic-rotations) |
 ## Number Theory
 |  |
 | ------- |
