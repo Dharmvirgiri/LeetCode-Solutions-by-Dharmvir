@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1441-build-an-array-with-stack-operations) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
