@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0009-palindrome-number) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2169-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
