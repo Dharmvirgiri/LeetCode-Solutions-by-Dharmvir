@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2485-find-the-pivot-integer) |
+| [3870-count-commas-in-range](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
