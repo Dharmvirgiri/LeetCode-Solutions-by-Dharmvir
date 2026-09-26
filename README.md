@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0523-continuous-subarray-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0485-max-consecutive-ones) |
@@ -293,13 +295,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0175-combine-two-tables) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
