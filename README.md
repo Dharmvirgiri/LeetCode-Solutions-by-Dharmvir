@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1441-build-an-array-with-stack-operations) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
