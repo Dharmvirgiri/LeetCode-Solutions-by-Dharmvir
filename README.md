@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0485-max-consecutive-ones) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0977-squares-of-a-sorted-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0344-reverse-string) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
