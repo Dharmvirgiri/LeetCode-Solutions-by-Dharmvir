@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2169-count-operations-to-obtain-zero) |
@@ -323,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
