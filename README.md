@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0141-linked-list-cycle) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0020-valid-parentheses) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0713-subarray-product-less-than-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
