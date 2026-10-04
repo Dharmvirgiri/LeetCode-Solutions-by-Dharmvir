@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0504-base-7) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0678-valid-parenthesis-string) |
 | [1078-occurrences-after-bigram](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1078-occurrences-after-bigram) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0678-valid-parenthesis-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
