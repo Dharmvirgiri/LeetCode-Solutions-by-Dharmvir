@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0164-maximum-gap) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
