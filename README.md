@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0189-rotate-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0374-guess-number-higher-or-lower) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Dharmvirgiri/LeetCode-Solutions-by-Dharmvir/tree/master/0344-reverse-string) |
